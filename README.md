@@ -5,18 +5,18 @@ I'm a passionate software developer with a strong focus on **Flutter**, **Larave
 ## 🛠️ Tech Stack
 - **Frontend**: Flutter, Vue, Astro
 - **Backend**: Laravel, Node.js
-- **Database**: SQLite, Hive
+- **Database**: SQLite, SQL Server, PostgreSQL
 - **Tools**: Visual Studio Code, WebSockets, Git
 
 ## 📌 Highlights
-- 🏆 Experienced in **Flutter Web & Desktop** development.
+- 🏆 Experienced in **Javascript and C#** development.
 - 🔧 Building robust **REST APIs** and **WebSocket** integrations.
 - 🏗️ Hands-on with **Dynamics 365** and enterprise software.
 
 ## 📬 Let’s Connect!
 - 💼 [LinkedIn](#)  
 - 🐦 [Twitter](#)  
-- 🌍 [Portfolio](#)  
+- 🌍 [Portfolio](www.marcos-almonte.com)  
 
 Thanks for stopping by! Happy coding 🚀
 
