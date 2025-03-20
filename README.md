@@ -2,13 +2,8 @@
 
 I'm a passionate software developer with a strong focus on **Flutter**, **Laravel**, and **backend development**. I enjoy building scalable applications, exploring new frameworks, and optimizing user experiences.
 
-## 🚀 What I’m Working On
-- 🏥 **Clinic Appointment System** – A real-time scheduling app using Laravel, Flutter, and WebSockets.
-- 📈 **Progressio** – A habit-tracking app with authentication and analytics.
-- 💰 **Crypto Dashboard** – A Flutter app for real-time cryptocurrency price tracking via WebSockets.
-
 ## 🛠️ Tech Stack
-- **Frontend**: Flutter, Nylo
+- **Frontend**: Flutter, Vue, Astro
 - **Backend**: Laravel, Node.js
 - **Database**: SQLite, Hive
 - **Tools**: Visual Studio Code, WebSockets, Git
