@@ -16,7 +16,7 @@ I'm a passionate software developer with a strong focus on **Flutter**, **Larave
 ## 📬 Let’s Connect!
 - 💼 [LinkedIn](#)  
 - 🐦 [Twitter](#)  
-- 🌍 [Portfolio](www.marcos-almonte.com)  
+- 🌍 [Portfolio](marcos-almonte.com)  
 
 Thanks for stopping by! Happy coding 🚀
 
